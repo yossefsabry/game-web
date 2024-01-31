@@ -1,4 +1,3 @@
-<h2 align="center">Game Jooo</h2>
 
 ### full webstie respenseive and interactive using html css
 
